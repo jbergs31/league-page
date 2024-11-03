@@ -25,7 +25,7 @@ export const managers = [
         "name": "Logan",
         "location": "Murray Hill, NYC", // (optional)
         "bio": "Logan is one of the fiercest competitors in league history. Boasting one chip and a mean attitude, this guy has the drive and the pedigree to win it all again.",
-        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+        "photo": "managers/Logan.jpg", // square ratio recommended (no larger than 500x500)
         "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
         "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
         "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
